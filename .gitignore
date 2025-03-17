@@ -111,3 +111,6 @@ poetry.lock
 
 # asdf
 .tool-versions
+
+# act testing
+.secrets
